@@ -1,2 +1,0 @@
-differential-drive:rosserial_python:rover
--DCATKIN_DEVEL_PREFIX=/home/oem/navbot/devel -DCMAKE_INSTALL_PREFIX=/home/oem/navbot/install -G Unix Makefiles
