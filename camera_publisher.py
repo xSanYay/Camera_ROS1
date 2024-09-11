@@ -1,10 +1,6 @@
 #!/usr/bin/env python
 # Basics ROS program to publish real-time streaming 
 # video from your built-in webcam
-# Author:
-# - Addison Sears-Collins
-# - https://automaticaddison.com
- 
 # Import the necessary libraries
 import rospy # Python library for ROS
 from sensor_msgs.msg import Image # Image is the message type
